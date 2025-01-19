@@ -1,4 +1,4 @@
-![niftiview_logo_transparent_small](https://github.com/user-attachments/assets/109d0dda-6704-4d9c-9c14-4b29aaa1a52f)
+![niftiview_logo_transparent_clean_small](https://github.com/user-attachments/assets/f1b09534-27bd-4895-af36-489edbda0e30)
 
 NiftiView is a medical 3D image viewer **made for amateurs** 👨, **clinicians** 👩‍⚕️, **scientists** 👨‍🔬 and **coders** 👩‍💻
 
