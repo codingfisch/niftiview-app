@@ -9,7 +9,7 @@ NiftiView is a medical 3D image viewer **made for amateurs** 👨, **clinicians*
 - 👨‍🔬 **Custom image layers and overlays** (crosshair, colorbar...) to create **publication-ready figures**
 - 👩‍💻 Usable via **Python and Command Line Interface** (take a look at [the underlying Python package](https://github.com/codingfisch/niftiview))
 
-![niftiview](https://github.com/user-attachments/assets/facd5b06-5438-4c50-8ad0-d3e928c9f258)
+![niftiview](https://github.com/user-attachments/assets/c665efa5-a6d9-4732-854f-a595e9b731dd)
 
 Besides these highlights, NiftiView also **covers the basics**
 - 💾 Supports **NIfTI** `.nii`/`.nii.gz`, **NumPy** `.npy`, **DICOM** and some **older 3D image formats**
